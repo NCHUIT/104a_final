@@ -394,7 +394,7 @@ $.each( courses[code] , function(ik, iv) {
 
 * 選課小幫手產出來的個人課表（json）-> Tiagenda
 
-* 選課的時候想要查課程評價怎麼辦？
+* 選課的時候想要查課程評價怎麼辦？ -> 課程評鑑查詢系統
 
 %%%%%%%%%%%%%%%
 !SLIDE picture x=40000 y=40000 scale=5
